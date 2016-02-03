@@ -1,0 +1,5 @@
+team_music:
+    resource: "@TeamMusicBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
